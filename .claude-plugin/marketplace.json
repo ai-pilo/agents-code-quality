@@ -1,44 +1,46 @@
 {
+  "name": "agents-code-quality",
+  "owner": "ai-pilo",
   "plugins": [
     {
       "name": "code-review-ai",
       "version": "1.2.2",
-      "path": "plugins/code-review-ai"
+      "source": "plugins/code-review-ai"
     },
     {
       "name": "comprehensive-review",
       "version": "1.2.2",
-      "path": "plugins/comprehensive-review"
+      "source": "plugins/comprehensive-review"
     },
     {
       "name": "code-documentation",
       "version": "1.2.2",
-      "path": "plugins/code-documentation"
+      "source": "plugins/code-documentation"
     },
     {
       "name": "codebase-cleanup",
       "version": "1.2.2",
-      "path": "plugins/codebase-cleanup"
+      "source": "plugins/codebase-cleanup"
     },
     {
       "name": "tdd-workflows",
       "version": "1.2.2",
-      "path": "plugins/tdd-workflows"
+      "source": "plugins/tdd-workflows"
     },
     {
       "name": "unit-testing",
       "version": "1.2.2",
-      "path": "plugins/unit-testing"
+      "source": "plugins/unit-testing"
     },
     {
       "name": "performance-testing-review",
       "version": "1.2.2",
-      "path": "plugins/performance-testing-review"
+      "source": "plugins/performance-testing-review"
     },
     {
       "name": "git-pr-workflows",
       "version": "1.2.2",
-      "path": "plugins/git-pr-workflows"
+      "source": "plugins/git-pr-workflows"
     }
   ]
 }
